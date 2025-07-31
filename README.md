@@ -1,0 +1,1 @@
+Le dossier contient deux éléments : un pdf et un programme python. Le pdf explique comment réaliser un transfert de couleurs entre deux images de même dimension à l'aide du transport optimal. Le programme pyhton est le programme utilisé pour réliser les transferts de couleurs présent dans le pdf.
